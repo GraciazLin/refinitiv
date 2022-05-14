@@ -9,7 +9,7 @@ title = slide.shapes.title
 subtitle = slide.placeholders[1]
 
 # 设置标题和副标题
-title.text = "Hello, World!"
+title.text = "Hello, World!!"
 subtitle.text = "pip install python-pptx"
 
 prs.save("test.pptx")
